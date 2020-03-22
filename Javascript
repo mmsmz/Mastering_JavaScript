@@ -1,0 +1,55 @@
+Javascript
+----------
+- Java is not equal to Javascript
+- Invented by Brendan Eich in 1995 
+- build to enhance the clientside functionality 
+- later Javascript is not just a clientside scripting language 
+    - now it is being used on server sid-e programming 
+    - desktop to create desktop application 
+    - it is used to create android or ios application for smart phones 
+
+where Javasctipt is used and how it used?
+-----------------------------------------
+
+- NodeJS a complete framework used for serverside web development to make dynamic web application 
+- React front end library which was development by facebook now using React JS we can create web and mobile applications
+    *- you can write one code and run it on the web and mobile phones
+- React Native is completely used for mobile applications which is IOS, Android and other platforms 
+- Angular JS, which is another MVC oriented framwork and it was initially development by google and now it open source
+    *- which is used to create dynamic web applications
+
+- Electron JS - can create for the desktop application which is the standalone applications 
+- React VR framwork 
+- TensorFlow.js is a machine learning platform and a machine learning framwork and initially development by google 
+
+
+DOM - Document Object Model 
+-----------------------------
+- Javascript can understand Document Object Model
+- Javascript looks into DOM in terms of Nodes 
+- There are three types of Nodes 
+    1. Element Nodes -> eg:- <Head> , <title>
+    2. Attribute Nodes -> eg:- <div id="div1">
+    3. Text Node -> mytitle
+-------------------------
+ Download Themes 
+ netbeans light theme
+ monokai-contra theme
+-------------------------
+
+Variable & Datatypes iin Javascript
+-----------------------------------
+-----------------------------------
+
+Definition -
+>> A variable provides us with a named storage that our programs can manipulate
+>> Variables are used to store information to be reference & manipulated in a computer program.
+>> In programming, a variable is a vlaue that can change, depending on conditions or on information passed to the program.
+
+JS variable 
+-----------
+JS is LOOSLEY Type. which means we dont need to declay and datatype. 
+
+JS is DYNAMICALLY Type 
+// JS Dynamically type  - which means datatype the values changes dependence upon the variable that you pass.  numb = 677;  
+// dynamically types means the numb can be used two times in the code. 

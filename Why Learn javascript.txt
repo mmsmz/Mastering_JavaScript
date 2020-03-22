@@ -1,0 +1,19 @@
+ java != javascript
+ Why javascript is famous?
+ - JS invented Brendan Eich in 1995, developed for theh client side scripting language
+ - JS can be use in serverside programing, with JS can application for 
+            - desktop
+            - android 
+            - IOS 
+ Where is used 
+ - Serverside Programming  to act as a dynamic language like c# / java / python / any other. 
+    - NODEJS which is a complete framework used for Serverside scripting 
+    - REACT which is a front-end library now by using the react JS We can create Web aswel Mobile applications
+            -   wrting one code , and running it on mobile or web 
+    - React Native which is completely used for Mobile application - android and IOS and other platforms
+    - Angular JS which is another MVC oriented framework developed by google and it open source
+    - Electron >> for desktop app only 
+    - React 360 framework 
+    - TensorFlow.js - machine learning 
+
+
